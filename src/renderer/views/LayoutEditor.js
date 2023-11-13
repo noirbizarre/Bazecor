@@ -914,7 +914,7 @@ class LayoutEditor extends React.Component {
     toast.success(
       <ToastMessage
         title="Changes saved sucessfully"
-        content="Your changes where saved sucessfully on the keyboard!"
+        content="Your changes were saved sucessfully on the keyboard!"
         icon={<IconArrowDownWithLine />}
       />,
       {
